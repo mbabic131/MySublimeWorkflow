@@ -19,15 +19,15 @@ https://github.com/erichard/SublimePHPCompanion
  * F6 => Expand the class under the cursor to its FQCN (Fully Qualified Class Name)
  * F7 => Insert PHP constructor property
  
- PHP getters and setters
+PHP getters and setters
  https://github.com/francodacosta/sublime-php-getters-setters
  
- Git Gutter
+Git Gutter
  https://github.com/jisaacks/GitGutter
  
- PHP Code Sniffer
+PHP Code Sniffer
  https://github.com/squizlabs/sublime-PHP_CodeSniffer
  
- TypeScript
+TypeScript
  https://github.com/Microsoft/TypeScript-Sublime-Plugin
 
