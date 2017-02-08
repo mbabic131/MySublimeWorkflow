@@ -13,3 +13,5 @@ PHP Code Sniffer https://github.com/squizlabs/sublime-PHP_CodeSniffer
 TypeScript https://github.com/Microsoft/TypeScript-Sublime-Plugin
 
 Bracket Highlighter https://github.com/facelessuser/BracketHighlighter
+
+Emmet https://github.com/sergeche/emmet-sublime
