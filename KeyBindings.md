@@ -7,6 +7,13 @@ Sublime
  * ctrl+r => Go to symbol in file
  * ctrl+shift+r => Go to symbol in project
  * ctr+shift+p => All settigns
+ * ctrl+shift+o => Open folder
+ * ctrl+7 => comment code 
+ * ctrl+shift+7 => comment code (block)
+ * ctrl+d => select word (multiple cursor)
+ * ctrl+l => select line
+ * ctrl+shift+up/down => move line up and down
+ * ctrl+shift+d => duplicate line
 
 Advanced New File
 https://github.com/skuroda/Sublime-AdvancedNewFile
