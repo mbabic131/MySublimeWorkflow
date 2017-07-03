@@ -15,3 +15,5 @@ TypeScript https://github.com/Microsoft/TypeScript-Sublime-Plugin
 Bracket Highlighter https://github.com/facelessuser/BracketHighlighter
 
 Emmet https://github.com/sergeche/emmet-sublime
+
+DocBlockr https://github.com/spadgos/sublime-jsdocs
