@@ -34,6 +34,7 @@ https://github.com/skuroda/Sublime-AdvancedNewFile
 
 PHP Companion
 https://github.com/erichard/SublimePHPCompanion
+ * Shift+F12 => Go to class definition
  * F5 => Show the different namespace that match selected class 
  * F6 => Expand the class under the cursor to its FQCN (Fully Qualified Class Name)
  * F7 => Insert PHP constructor property
