@@ -1,19 +1,32 @@
-## Sublime Text 3 Key Bindings
+# Sublime Text 3 Key Bindings
 ===============
 
-Sublime
- * ctr+p => Go to file
- * ctrl+g => Go to line
- * ctrl+r => Go to symbol in file
- * ctrl+shift+r => Go to symbol in project
- * ctr+shift+p => All settigns
- * ctrl+shift+o => Open folder
- * ctrl+7 => comment code 
- * ctrl+shift+7 => comment code (block)
- * ctrl+d => select word (multiple cursor)
- * ctrl+l => select line
- * ctrl+shift+up/down => move line up and down
- * ctrl+shift+d => duplicate line
+# Navigate
+
+ * Ctrl+P => Go to file
+ * Ctrl+R => Go to symbol in file
+ * Ctrl+Shift+R => Go to symbol in project
+ * Ctrl+G => Go to line
+ 
+ # Edit code
+ 
+ * Ctrl+X => cut line
+ * Ctrl+C => Copy line
+ * Ctrl+7 => comment code 
+ * Ctrl+Shift+7 => comment code (block)
+ * Ctrl+D => select word (multiple cursor)
+ * Ctrl+L => select line
+ * Ctrl+Shift+Up/Down => move line up and down
+ * Ctrl+Shift+D => duplicate line
+ 
+ # Files/Settings
+ 
+ * Ctr+Shift+P => All settigns
+ * Ctrl+Shift+O => Open folder
+ * Ctrl+N => New file
+ * Ctrl+K+B => Show/Hide File Explorer
+ * Ctrl+Shift+T => Open last file
+ 
 
 Advanced New File
 https://github.com/skuroda/Sublime-AdvancedNewFile
