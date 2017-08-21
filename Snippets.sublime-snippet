@@ -4,11 +4,9 @@
     print_r($1);
     die();
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>dd</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
 </snippet>
+
 
 <snippet>
     <content><![CDATA[
@@ -16,8 +14,54 @@
     var_dump($1);
     die();
 ]]></content>
-    <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
     <tabTrigger>ddv</tabTrigger>
-    <!-- Optional: Set a scope to limit where the snippet will trigger -->
-    <!-- <scope>source.python</scope> -->
+</snippet>
+
+
+<snippet>
+  <content><![CDATA[
+public function ${1}()
+{
+
+}
+]]></content>
+  <tabTrigger>met</tabTrigger>
+  <description>PHP public method</description>
+  <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>
+
+
+<snippet>
+  <content><![CDATA[
+protected function ${1}()
+{
+
+}
+]]></content>
+  <tabTrigger>pmet</tabTrigger>
+  <description>PHP protected method</description>
+  <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>
+
+
+<snippet>
+  <content><![CDATA[
+private function ${1}()
+{
+
+}
+]]></content>
+  <tabTrigger>prmet</tabTrigger>
+  <description>PHP private method</description>
+  <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php</scope>
+</snippet>
+
+
+<snippet>
+  <content><![CDATA[
+\$this->
+]]></content>
+  <tabTrigger>$</tabTrigger>
+  <description>PHP this</description>
+  <scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, variable.language.php, punctuation.definition.variable.php</scope>
 </snippet>
