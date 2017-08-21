@@ -19,3 +19,5 @@ Emmet https://github.com/sergeche/emmet-sublime
 DocBlockr https://github.com/spadgos/sublime-jsdocs
 
 SnippetMaker https://packagecontrol.io/packages/SnippetMaker
+
+Sublimelinter http://www.sublimelinter.com/en/latest/
