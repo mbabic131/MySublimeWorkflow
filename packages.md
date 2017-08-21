@@ -17,3 +17,5 @@ Bracket Highlighter https://github.com/facelessuser/BracketHighlighter
 Emmet https://github.com/sergeche/emmet-sublime
 
 DocBlockr https://github.com/spadgos/sublime-jsdocs
+
+SnippetMaker https://packagecontrol.io/packages/SnippetMaker
