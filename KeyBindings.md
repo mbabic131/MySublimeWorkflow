@@ -1,5 +1,5 @@
 # Sublime Text 3 Key Bindings
-===============
+=============================================================================================================================
 
 # Navigate
 
@@ -27,12 +27,13 @@
  * Ctrl+K+B => Show/Hide File Explorer
  * Ctrl+Shift+T => Open last file
  
+# Packages
 
-Advanced New File
+## Advanced New File
 https://github.com/skuroda/Sublime-AdvancedNewFile
  * super+alt+n => Create new file
 
-PHP Companion
+## PHP Companion
 https://github.com/erichard/SublimePHPCompanion
  * Shift+F12 => Go to class definition
  * F5 => Show the different namespace that match selected class 
